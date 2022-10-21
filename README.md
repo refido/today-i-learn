@@ -11,7 +11,8 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 1](list/day1.md)
 - [Day 2](list/day2.md)
 - [Day 3](list/day3.md)
+- [Day 4](list/day4.md)
 
 ## QnA
 
-- [React Introductory - S.A. (Starting Assignment)](list/day4.md)
+- [React Introductory - S.A. (Starting Assignment)](list/react.md)
