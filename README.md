@@ -14,6 +14,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 4](list/day4.md)
 - [Day 5](list/day5.md)
 - [Day 6](list/day6.md)
+- [Day 7](list/day7.md)
 
 ## QnA
 
