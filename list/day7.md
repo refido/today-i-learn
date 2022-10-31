@@ -6,22 +6,22 @@ A collection of concise write-ups on small things I learn day to day.
 
 ---
 
-## Day 7 (24 october 2022)
+## Day 7 (25 october 2022)
 
-![image](/images/5.jpeg)
+![image](/images/6.png)
 
 - My team goal today
 
-We have at least four tasks to complete as a team, and we will help each other with the parts that we do not yet understand.
+We have at least three more tasks to complete as a group, and we will assist one another with the parts we do not yet understand.
 
 - What I have done so far
 
-Completed three tasks as a team, met with the team, and added some features to my personal task.
+Three more team tasks were completed, and I added some features to my personal task.
 
 - My reflection
 
-The clock is ticking and I still have a lot to do.
+The deadline is quickly approaching, and I still have a lot to learn.
 
 - The plan for tomorrow
 
-I need to rush through my personal tasks so that I can finish at least two features.
+I need to hurry through my personal tasks so that I can finish them tomorrow.

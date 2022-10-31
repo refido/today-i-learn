@@ -6,20 +6,22 @@ A collection of concise write-ups on small things I learn day to day.
 
 ---
 
-## Day 6 (22 october 2022)
+## Day 6 (24 october 2022)
 
-- Experiences
+![image](/images/5.jpeg)
 
-There's a lot to learn in React, a lot I still don't understand, and I think I need to learn a lot more.
+- My team goal today
+
+We have at least four tasks to complete as a team, and we will help each other with the parts that we do not yet understand.
 
 - What I have done so far
 
-I did the exercise from the video I watched.
-
-- New things that I learned / error
-
-We can create a parent-child component and reuse it.
+Completed three tasks as a team, met with the team, and added some features to my personal task.
 
 - My reflection
 
-When it comes to React programming and how to use it, there is a lot to remember and understand.
+The clock is ticking and I still have a lot to do.
+
+- The plan for tomorrow
+
+I need to rush through my personal tasks so that I can finish at least two features.

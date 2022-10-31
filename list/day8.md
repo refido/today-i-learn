@@ -6,22 +6,24 @@ A collection of concise write-ups on small things I learn day to day.
 
 ---
 
-## Day 8 (25 october 2022)
+## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/10/26 / Week 2
 
-![image](/images/6.png)
+![image](/images/7.png)
 
-- My team goal today
+Because most of us are new to React, we believe that learning together and sharing information after we have learned it on our own will help us improve our knowledge.
 
-We have at least three more tasks to complete as a group, and we will assist one another with the parts we do not yet understand.
+We share our struggles and obstacles with one another so that others can help.
 
-- What I have done so far
+To relieve stress, we also engaged in some activities and laughed a lot.
 
-Three more team tasks were completed, and I added some features to my personal task.
+- What did I learn today?
 
-- My reflection
+When we do some programming, dividing a layout or function by each folder comes in handy when we need to find a bug, error, or even a logical expectation.
 
-The deadline is quickly approaching, and I still have a lot to learn.
+- What did I do well?
 
-- The plan for tomorrow
+For the time being, I am fairly confident in my understanding of React Js layouting.
 
-I need to hurry through my personal tasks so that I can finish them tomorrow.
+- What needs to improve?
+
+Some logical functions are perplexing to me; I understand how they work but have no idea how to implement them.

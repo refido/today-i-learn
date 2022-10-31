@@ -6,24 +6,20 @@ A collection of concise write-ups on small things I learn day to day.
 
 ---
 
-## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/10/26 / Week 2
+## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/10/27 / Week 2
 
-![image](/images/7.png)
+![image](/images/8.png)
 
-Because most of us are new to React, we believe that learning together and sharing information after we have learned it on our own will help us improve our knowledge.
-
-We share our struggles and obstacles with one another so that others can help.
-
-To relieve stress, we also engaged in some activities and laughed a lot.
+Today we must complete our personal task, and surprisingly, there is also a mini-test that is similar to the personal task we created earlier, but the feature in this mini-test simply adds and displays a list of data. What's difficult is that the time limit for the mini-test is only two hours, which makes me nervous. But, in the end, I was able to solve it.
 
 - What did I learn today?
 
-When we do some programming, dividing a layout or function by each folder comes in handy when we need to find a bug, error, or even a logical expectation.
+Working from something we had previously learned made me realize that this is my yardstick for whether or not I understood what I had previously learned, not to mention the time constraint. Here, I realize how important it is to plan ahead of time, such as what I need to do first and what I will do next, not to mention the part that requires a deep understanding before doing the work, which takes a long time. So in the end Time and Work management is important.
 
 - What did I do well?
 
-For the time being, I am fairly confident in my understanding of React Js layouting.
+It makes up for my remaining work time in areas I understand very well, such as component layouts in React, which is a good thing because the remaining time I have available can be used to work on the parts I don't understand.
 
 - What needs to improve?
 
-Some logical functions are perplexing to me; I understand how they work but have no idea how to implement them.
+I need to understand how Map and UseState work better; this is critical because I will use this function frequently, and so on.
