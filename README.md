@@ -21,6 +21,11 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 11](list/day11.md)
 - [Day 12](list/day12.md)
 - [Day 13](list/day13.md)
+- [Day 14](list/day14.md)
+
+## My WILs list
+
+- [Week 3](list/week3.md)
 
 ## QnA
 
