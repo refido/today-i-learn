@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ---
 
-## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/04 / Week 3
+## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/04 / Week 4
 
 ![image](/images/14.png)
 
