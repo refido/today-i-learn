@@ -29,6 +29,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 19](list/day19.md)
 - [Day 20](list/day20.md)
 - [Day 21](list/day21.md)
+- [Day 22](list/day22.md)
 
 ## My WILs list
 
