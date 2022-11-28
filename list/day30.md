@@ -38,34 +38,34 @@ Package.json contains vital project information. It comprises both human-readabl
 
 ```js
 {
-        "name": "my-project",
-        "version": "1.5.0",
-        "description": "Express server project using compression",
-        "main": "src/index.js",
-        "scripts": {
-            "start": "node index.js",
-			"dev": "nodemon",
-			"lint": "eslint **/*.js"
+  "name": "my-project",
+  "version": "1.5.0",
+  "description": "Express server project using compression",
+  "main": "src/index.js",
+  "scripts": {
+      "start": "node index.js",
+   "dev": "nodemon",
+   "lint": "eslint **/*.js"
         },
         "dependencies": {
             "express": "^4.16.4",
-			"compression": "~1.7.4"
+   "compression": "~1.7.4"
         },
         "devDependencies": {
-			"eslint": "^5.16.0",
+   "eslint": "^5.16.0",
             "nodemon": "^1.18.11"
         },
-		"repository": {
-			"type": "git",
-			"url": "https://github.com/osiolabs/example.git"
-		},
-		"author": "Jon Church",
-		"contributors": [{
-			"name": "Amber Matz",
-			"email": "example@example.com",
-			"url": "https://www.osiolabs.com/#team"
-		}],
-		"keywords": ["server", "osiolabs", "express", "compression"]
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/osiolabs/example.git"
+  },
+  "author": "Jon Church",
+  "contributors": [{
+   "name": "Amber Matz",
+   "email": "example@example.com",
+   "url": "https://www.osiolabs.com/#team"
+  }],
+  "keywords": ["server", "osiolabs", "express", "compression"]
     }
 ```
 
