@@ -42,6 +42,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 32](list/day32.md)
 - [Day 33](list/day33.md)
 - [Day 34](list/day34.md)
+- [Day 35](list/day35.md)
 
 ## My WILs list
 
