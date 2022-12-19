@@ -49,6 +49,11 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 39](list/day39.md)
 - [Day 40](list/day40.md)
 - [Day 41](list/day41.md)
+- [Day 42](list/day42.md)
+- [Day 43](list/day43.md)
+- [Day 44](list/day44.md)
+- [Day 45](list/day45.md)
+- [Day 46](list/day46.md)
 
 ## My WILs list
 
