@@ -58,6 +58,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 48](list/day48.md)
 - [Day 49](list/day49.md)
 - [Day 50](list/day50.md)
+- [Day 51](list/day51.md)
 
 ## My WILs list
 
