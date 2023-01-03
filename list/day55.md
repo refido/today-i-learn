@@ -6,9 +6,9 @@ A collection of concise write-ups on small things I learn day to day.
 
 ---
 
-## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2023/01/02 / Week 12
+## [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2023/01/03 / Week 12
 
-![image](/images/54.png)
+![image](/images/55.png)
 
 Set up a development environment: First, I installed Node.js and created a new React project using the create-react-app tool. This gave me an essential structure for my project and allowed me to start designing my front end.
 
