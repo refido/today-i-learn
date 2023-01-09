@@ -66,6 +66,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Day 56](list/day56.md)
 - [Day 57](list/day57.md)
 - [Day 58](list/day58.md)
+- [Day 59](list/day59.md)
 
 ## My WILs list
 
